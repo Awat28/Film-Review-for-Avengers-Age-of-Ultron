@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+	<html>
+		<head>
+		<title>Avengers: Age of Ultron</title>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.12.0/jquery.min.js"></script>
+  <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js"></script>
+			<style>
+				body {
+					background-color: lightgray;
+				}
+				
+				body {
+					color: black;
+				}
+				
+				h6 {
+					text-align: right
+				}
+				
+				h6.quote1 {
+					padding-top: 50px;
+				}
+				
+				h1 {border-style: solid;
+					border-color: navy;
+					border-width: 15x
+				}
+				
+				u {
+					color: maroon;
+				}
+				
+				</style>
+		</head>
+			<body>
+			<div class="jumbotron">
+  <center><h1><u>Avengers: Age of Ultron</u></h1>      
+  <p>Movie Review</p></center>
+</div>
+
+  <h3><b>Movie Trailer:</b></h3>      
+
+		<iframe width="560" height="315" src="https://www.youtube.com/embed/M2ciY79mlQw?list=PLImMP769j55KBVQTpQfPFsVkLpkegw-I3" frameborder="0" allowfullscreen></iframe>
+			<div>
+					<h2><b>Movie Review:</b></h2>
+				<p>This is a must see movie. It is action packed and has a lot of comedy in between. I recomend this movie to anyone who likes action movies with a little comedy. The special effects are really good as well. This movie would get a four and a half star rating from me. The reason I'm not giving this movie all five stars is because there was one thing that might have been a mistake. That thing was the part when Ultron accidentally ripps off his seller's arm, it already looks like it healed, instead of looking like it was actually ripped off. This was the only scence that looked like a mistake.</p>			
+			</div>
+			
+			<div>
+				<p>
+					<h6 class="quote1"> "This movie is awesome! I really liked the special effects and action in the Avengers: Age of Ultron," says Alex.</h6>
+					<h6>"This movie is the best movie I've seen this since Iron-man 3!" says Joey.</h6>
+					<h6>"This is now my favorite movie. I don't know anyone that doesn't like new Avengers," says Rachel</h6>
+				</p>
+			</div>
+					<center><img src="http://www.chicagonow.com/hammervision/files/2015/05/avengers_age_of_ultron_team-HD.jpg" alt="Avengers" height="490" width="855"></center>
+				</body>
+	</html>
